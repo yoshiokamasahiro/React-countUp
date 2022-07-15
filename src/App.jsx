@@ -17,7 +17,7 @@ const App = () => {
     <>
       <h1 style={{ color: "#ccc" }}>こんにちは。</h1>
       <ColorFullMessage color="blue">お元気ですか？</ColorFullMessage>
-      <ColorFullMessage color="pink">元気です。</ColorFullMessage>
+      <ColorFullMessage color="pink">論理演算子の項目もう一回</ColorFullMessage>
       <button onClick={onClickCountUp}>カウントアップ</button>
       <br />
       <button onClick={onClicFaceShowSwitch}>オン/オフ</button>
